@@ -23,7 +23,7 @@
 
 ## Advanced Topics
 
-- [Neural Networks and Deep Learning](Machine%20learning%20fundamentals/Neutral%20Network%20and%20Deep%20Learning.md)
+- [Neural Networks and Deep Learning](Machine%20learning%20fundamentals/Neural%20Network%20and%20Deep%20Learning.md)
 - [NLP: Natural Language Processing](Machine%20learning%20fundamentals/NLP%20Natural%20Language%20Processing.md)
 - [Transformer Architecture](Machine%20learning%20fundamentals/Transformer%20Architecture.md)
 - [Reinforcement Learning from Human Feedback (RLHF)](<Machine%20learning%20fundamentals/Reinforcement%20Learning%20from%20Human%20Feedback%20(RLHF).md>)

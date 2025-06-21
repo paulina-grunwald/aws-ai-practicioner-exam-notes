@@ -12,7 +12,7 @@
 
 **How RLHF Works:**
 
-1. ***Step 1: Pretraining*** 
+1. ***Step 1: Pretraining***
 - Train a base model using supervised learning on large datasets.
 - Example: A language model pretrained to predict the next word in a sentence.
 1. ***Step 2: Collect Human Feedback***
@@ -43,6 +43,5 @@ How does it work? Example: internal company knowhow bot
 - Build a separate reward model
 - optimize the language model with the reward-based model
 
-![image.png](Reinforcement%20Learning%20from%20Human%20Feedback%20(RLHF)/image.png)
 
 https://aws.amazon.com/what-is/reinforcement-learning-from-human-feedback/

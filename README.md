@@ -16,14 +16,14 @@ This repository contains comprehensive study materials and notes for preparing f
 - [Hyperparameter Tuning](AWS%20AI%20Practitioner%20Exam/Hyperparameter%20tuning.md)
 - [Model Optimization Techniques](AWS%20AI%20Practitioner%20Exam/Model%20Optimization%20Techniques.md)
 - [Model Metric Validation](AWS%20AI%20Practitioner%20Exam/Model%20Metric%20validation.md)
-- [Overfitting vs. Underfitting](AWS%20AI%20Practitioner%20Exam/Overfitting%20vs%20underfiting.md)
+- [Overfitting vs. Underfitting](AWS%20AI%20Practitioner%20Exam/Overfitting%20vs%20underfitting.md)
 
 ### Generative AI and LLMs
 
 - [Generative AI](AWS%20AI%20Practitioner%20Exam/Generative%20AI.md)
 - [LLM (Large Language Model)](<AWS%20AI%20Practitioner%20Exam/LLM%20(Large%20Language%20Model).md>)
 - [Prompt Engineering](AWS%20AI%20Practitioner%20Exam/Prompt%20Engineering.md)
-- [Understanding Top-P, Top-K, and Temperature in AI Model Outputs](AWS%20AI%20Practitioner%20Exam/Understanding%20Top-P,%20Top-K,%20and%20Temperature%20in%20AI%20Model%20Outputs.md)
+- [Understanding Top-P, Top-K, and Temperature in AI](AWS%20AI%20Practitioner%20Exam/Understanding%20Top-P,%20Top-K,%20and%20Temperature%20in%20AI.md)
 
 ### AWS AI Services
 

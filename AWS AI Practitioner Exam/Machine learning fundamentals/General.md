@@ -2,10 +2,6 @@
 
 # General
 
-<div style="text-align: center;">
-<img src="General/image.png" width="400" alt="image.png">
-</div>
-
 - **Machine learning (ML)** is a modern software development technique and a type of artificial intelligence (AI) that enables computers to solve problems by using examples of real-world data. It allows computers to automatically learn and improve from experience without being explicitly programmed to do so.
 - A **model** is an extremely generic program, made specific by the data used to train it.
 - **Model training algorithms** work through an interactive process where the current model iteration is analyzed to determine what changes can be made to get closer to the goal. Those changes are made and the iteration continues until the model is evaluated to meet the goals.

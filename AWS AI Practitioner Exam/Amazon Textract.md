@@ -1,6 +1,6 @@
 ← [Back to AWS AI Practitioner Exam](../AWS%20AI%20Practitioner%20Exam.md)
 
-# Amazon Textrect
+# Amazon Textract
 
 - Automatically ***extracts text***, handwriting, and data ***from any scanned
 documents*** using AI and ML
@@ -11,4 +11,4 @@ documents*** using AI and ML
     - Healthcare (e.g., medical records, insurance claims)
     - Public Sector (e.g., tax forms, ID documents, passports)
 
-![image.png](Amazon%20Textrect/image.png)
+![image.png](Amazon%20Textract/image.png)

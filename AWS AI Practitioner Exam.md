@@ -19,7 +19,7 @@ Tags: AI, AWS, AWS Bedrock, AWS Comprehend, container
 
 [**Hyperparameter tuning**](AWS%20AI%20Practitioner%20Exam/Hyperparameter%20tuning.md)
 
-[Overfitting vs. underfiting](AWS%20AI%20Practitioner%20Exam/Overfitting%20vs%20underfiting.md)
+[Overfitting vs. underfitting](AWS%20AI%20Practitioner%20Exam/Overfitting%20vs%20underfitting.md)
 
 [Generative AI](AWS%20AI%20Practitioner%20Exam/Generative%20AI.md)
 
@@ -29,9 +29,9 @@ Tags: AI, AWS, AWS Bedrock, AWS Comprehend, container
 
 [LLM (Large Language Model)](AWS%20AI%20Practitioner%20Exam/LLM%20(Large%20Language%20Model).md)
 
-[Algorithms and techniques generate **word or text embedding**](AWS%20AI%20Practitioner%20Exam/Algorithms%20and%20techniques%20generate%20word%20or%20text%20embedding.md)
+[Algorithms and techniques generate **word or text embedding**](AWS%20AI%20Practitioner%20Exam/Algorithms%20and%20techniques%20generate%20word%20or%20text%20embeddings.md)
 
-[**Understanding Top-P, Top-K, and Temperature in AI Model Outputs**](AWS%20AI%20Practitioner%20Exam/Understanding%20Top-P,%20Top-K,%20and%20Temperature%20in%20AI%20Model%20Outputs.md)
+[**Understanding Top-P, Top-K, and Temperature in AI Model Outputs**](AWS%20AI%20Practitioner%20Exam/Understanding%20Top-P,%20Top-K,%20and%20Temperature%20in%20AI.md)
 
 [Embeddings and vectors](AWS%20AI%20Practitioner%20Exam/Embeddings%20and%20vectors.md)
 
@@ -101,16 +101,3 @@ Tags: AI, AWS, AWS Bedrock, AWS Comprehend, container
 
 [Security, Identity and Compliance](AWS%20AI%20Practitioner%20Exam/Security,%20Identity%20and%20Compliance.md)
 
----
-
-[Random Notes](AWS%20AI%20Practitioner%20Exam/Random%20Notes.md)
-
-## ***Course slides and books***
-
-[📖 Glossary](AWS%20AI%20Practitioner%20Exam/%F0%9F%93%96%20Glossary.md)
-
-[AWS-Certified-ML-Engineer-Associate-Slides.pdf](AWS%20AI%20Practitioner%20Exam/AWS-Certified-ML-Engineer-Associate-Slides.pdf)
-
-[Generative AI on AWS Building Context-Aware Multimodal Reasoning Applications (Chris Fregly, Antje Barth, Shelbee Eigenbrode) (Z-Library).pdf](AWS%20AI%20Practitioner%20Exam/Generative_AI_on_AWS_Building_Context-Aware_Multimodal_Reasoning_Applications_(Chris_Fregly_Antje_Barth_Shelbee_Eigenbrode)_(Z-Library).pdf)
-
-[AWS-Certified-ML-Engineer-Associate-Slides.pdf](AWS%20AI%20Practitioner%20Exam/AWS-Certified-ML-Engineer-Associate-Slides%201.pdf)

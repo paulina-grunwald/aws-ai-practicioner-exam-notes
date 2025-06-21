@@ -2,8 +2,6 @@
 
 # Phase of Machine Learning Project
 
-![image.png](Phase%20of%20Machine%20Learning%20Project/image.png)
-
 1. **Define business goals**
 • Stakeholders define the value, budget and success criteria
 • Defining KPI (Key Performance Indicators) is critical
@@ -28,7 +26,3 @@
 - Correlation Matrix:
     - Look at correlations between variables (how “linked” they are)
     - Helps you decide which features can be important in your model
-
-![image.png](Phase%20of%20Machine%20Learning%20Project/image%201.png)
-
-![image.png](Phase%20of%20Machine%20Learning%20Project/image%202.png)

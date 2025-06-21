@@ -2,13 +2,9 @@
 
 # Five Machine Learning Steps
 
-![image.png](Five%20Machine%20Learning%20Steps/image.png)
-
 **Step One: Define the Problem**
 
 **Step Two: Build a Dataset**
-
-![image.png](Five%20Machine%20Learning%20Steps/image%201.png)
 
 - ***Impute*** is a common term referring to different statistical tools which can be used to calculate missing values from your dataset.
 
